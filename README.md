@@ -13,7 +13,7 @@ Using git issue and Project Section, add new issue with develop label.
 ## Osori library
 |Project Name|developer|description|sample| 
 |:--- |:---- |:----|:----:|
-|[MaterialPopup](https://github.com/HyOsori/MaterialPopup)|[seohui](https://github.com/seohui), [seubseub](https://github.com/seubseub)|This Project is inspired by https://github.com/Orderella/PopupDialog,   and origianl MaterialDialog https://github.com/afollestad/material-dialogs||
+|[MaterialPopup](https://github.com/HyOsori/MaterialPopup)|[seohui](https://github.com/seohui), [seubseub](https://github.com/seubseub)|This Project is inspired by (https://github.com/Orderella/PopupDialog),   and origianl MaterialDialog (https://github.com/afollestad/material-dialogs) MaterialPopup is Dialog that have 4 type(checkbox list, alert, progressbar, actionsheet) that customized|<img src="https://github.com/HyOsori/MaterialPopup/blob/master/Images/progress.gif" width='187' alt="Progressbar gif">|
 
 ## Contributors
 * [seohui](https://github.com/seohui)
@@ -22,7 +22,7 @@ Using git issue and Project Section, add new issue with develop label.
 ```
 The MIT License (MIT)
 
-Copyright (c) 2016 Hanyang Osori
+Copyright (c) 2017 Hanyang Osori
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
